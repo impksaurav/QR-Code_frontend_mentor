@@ -16,8 +16,7 @@ This is a QR code component made by using HTML and CSS only.I have used google f
 (./screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://impksaurav.github.io/QR-Code_frontend_mentor/]
 
 ## My process
 
